@@ -6,13 +6,18 @@ public class cameraFollow : MonoBehaviour
 {
 
     public Transform target;
+    public float smoothSpeed = .3f;
+
+    private Vector3 currentVelocity;
 
     // Update is called once per frame
-    void Update()
+    void LateUpdate()
     {
         if (target.position.y > transform.position.y)
         {
-            transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
+            Vector3 newPos = new Vector3(target.position.x, target.position.y, transform.position.z);
+            transform.position = Vector3.SmoothDamp(transform.position, newPos,
+                        ref currentVelocity, smoothSpeed * Time.deltaTime);
         }
     }
 }

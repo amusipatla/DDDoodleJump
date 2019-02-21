@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{0579FB95-AFF7-D28B-1451-BB6E9DEDBD4B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cameraFollow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/levelGenerator.cs">
     <Files>
       <File FileName="Assets/platform.cs" Line="21" Column="14" />
       <File FileName="Assets/player.cs" Line="24" Column="63" />
-      <File FileName="Assets/cameraFollow.cs" Line="9" Column="5" />
+      <File FileName="Assets/cameraFollow.cs" Line="20" Column="76" />
+      <File FileName="Assets/levelGenerator.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
