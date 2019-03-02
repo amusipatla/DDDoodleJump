@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\cameraFollow.cs" />
+    <Compile Include="Assets\lavaRising.cs" />
     <Compile Include="Assets\levelGenerator.cs" />
     <Compile Include="Assets\platform.cs" />
     <Compile Include="Assets\player.cs" />
