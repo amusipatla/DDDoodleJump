@@ -65,6 +65,9 @@
     <Compile Include="Assets\levelGenerator.cs" />
     <Compile Include="Assets\platform.cs" />
     <Compile Include="Assets\player.cs" />
+    <Compile Include="Assets\WavySprite\Scripts\WavySprite.cs" />
+    <None Include="Assets\WavySprite\readme.txt" />
+    <None Include="Assets\WavySprite\Shaders\WavySprite.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/amusipatla/Documents/DDDoodleJump/DoodleJump/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
