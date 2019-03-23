@@ -44,7 +44,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1280
+<<<<<<< HEAD
     height: 709
+=======
+    height: 711
+>>>>>>> d5cfd9b3c9014ca1f234b8b17becd2372717f4c1
   m_MinSize: {x: 950, y: 398}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
@@ -110,11 +114,19 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1280
+<<<<<<< HEAD
     height: 659
   m_MinSize: {x: 681, y: 348}
   m_MaxSize: {x: 12006, y: 8048}
   vertical: 0
   controlID: 898
+=======
+    height: 661
+  m_MinSize: {x: 681, y: 348}
+  m_MaxSize: {x: 12006, y: 8048}
+  vertical: 0
+  controlID: 184
+>>>>>>> d5cfd9b3c9014ca1f234b8b17becd2372717f4c1
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,11 +147,19 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1003
+<<<<<<< HEAD
     height: 659
   m_MinSize: {x: 404, y: 348}
   m_MaxSize: {x: 8004, y: 8048}
   vertical: 1
   controlID: 899
+=======
+    height: 661
+  m_MinSize: {x: 404, y: 348}
+  m_MaxSize: {x: 8004, y: 8048}
+  vertical: 1
+  controlID: 185
+>>>>>>> d5cfd9b3c9014ca1f234b8b17becd2372717f4c1
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +184,11 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 224}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
+<<<<<<< HEAD
   controlID: 900
+=======
+  controlID: 186
+>>>>>>> d5cfd9b3c9014ca1f234b8b17becd2372717f4c1
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -236,7 +260,11 @@ MonoBehaviour:
     x: 0
     y: 382
     width: 1003
+<<<<<<< HEAD
     height: 277
+=======
+    height: 278
+>>>>>>> d5cfd9b3c9014ca1f234b8b17becd2372717f4c1
   m_MinSize: {x: 102, y: 124}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 16}
@@ -529,14 +557,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 64
-  m_LastProjectPath: /Users/amusipatla/Documents/DDDoodleJump/DoodleJump
+  m_LastProjectPath: /Users/ashley/Documents/DDDoodleJump/DoodleJump
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 62090000
     m_LastClickedID: 2402
-    m_ExpandedIDs: 0000000062090000
+    m_ExpandedIDs: 000000006209000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -564,7 +592,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000062090000
+    m_ExpandedIDs: 000000006209000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
