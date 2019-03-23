@@ -1,9 +1,10 @@
 OSXUniversal
 PlayerPath?
-/Users/amusipatla/Documents/DDDoodleJump/DoodleJump/DDDoodleJump.app
+/Users/ashley/Documents/DDDoodleJump/DoodleJump/DDDoodleJump.app
 SceneListBegin?
 Assets/Scenes/Start Screen.unity
 Assets/Scenes/SampleScene.unity
+Assets/Scenes/GameOver.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 01aa15e337e3a9c62f15153dfac6d589 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -117,6 +118,7 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.menuStart
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 4edbaf04f20c99412eec73ba2ff7acbe Assembly-CSharp.dll:.WavySprite
 b3c7b76445e5cc072e6736a1f68299d4 Assembly-CSharp.dll:.platform
@@ -163,4 +165,3 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 131f425607820796717868b02ff18299 Assembly-CSharp.dll:.player
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.menuStart
