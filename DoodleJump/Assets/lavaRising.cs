@@ -24,5 +24,6 @@ public class lavaRising : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("DED");
+        Application.LoadLevel(2);
     }
 }
