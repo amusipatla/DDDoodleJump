@@ -1,6 +1,6 @@
 OSXUniversal
 PlayerPath?
-/Users/ashley/Documents/DDDoodleJump/DoodleJump/DDDoodleJump.app
+/Users/amusipatla/Documents/DDDoodleJump/DoodleJump/dddoodlejump.app
 SceneListBegin?
 Assets/Scenes/Start Screen.unity
 Assets/Scenes/SampleScene.unity
