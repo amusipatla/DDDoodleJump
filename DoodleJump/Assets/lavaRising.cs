@@ -9,6 +9,8 @@ public class lavaRising : MonoBehaviour
     public float smoothSpeed = 3.0f;
     Rigidbody2D rb;
 
+    public Transform target;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -17,13 +19,20 @@ public class lavaRising : MonoBehaviour
 
     private void Update()
     {
-        Vector2 direction = new Vector2(0, smoothSpeed);
-        rb.MovePosition(rb.position + direction * Time.deltaTime);
+        if(target.position.y > rb.position.y + 20)
+        {
+            rb.position = new Vector2(rb.position.x, target.position.y - 15);
+        }
+        else
+        {
+            Vector2 direction = new Vector2(0, smoothSpeed);
+            rb.MovePosition(rb.position + direction * Time.deltaTime);
+        }
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("DED");
-        Application.LoadLevel(2);
+        Application.LoadLevel(3);
     }
 }

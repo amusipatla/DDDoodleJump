@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Start Screen.unity
     guid: 2f6c1351c2a2849e7b5a900781bb7020
   - enabled: 1
+    path: Assets/Scenes/Scoreboard.unity
+    guid: 285324c7ca7374e6e824c9b6a75fee40
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 0808461a132cf458680110e98f07dd36
   - enabled: 1

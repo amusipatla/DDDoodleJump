@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class menuStart : MonoBehaviour
 {
-    public void ChangeScene()
+    public void ChangeScene(int scene)
     {
-        Application.LoadLevel(1);
+        Application.LoadLevel(scene);
     }
 }
